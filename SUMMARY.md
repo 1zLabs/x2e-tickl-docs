@@ -6,7 +6,7 @@
 
 ## Platform
 
-* [TICKL Users](platform/tickl-users/README.md)
+* [TICKL Users](platform/tickl-users/README.md)
   * [Mission Creators](platform/tickl-users/mission-creators.md)
   * [Users](platform/tickl-users/users.md)
 * [Mission](platform/mission/README.md)
