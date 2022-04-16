@@ -2,7 +2,7 @@
 
 ### Swap
 
-**TCKL** can be found on swap platforms such as Uniswap and is easy to exchange with other tokens. The swap helps sustain **TCKL** token value at a given level. **TICKL** provides liquidity to the swap contract in align with creation, distribution and execution of mission campaigns, therefore it ensures stability of the entire **TICKL** ecosystem.
+**TCKL** can be found on swap platforms such as Uniswap and is easy to exchange with other tokens. The swap helps sustain **TCKL** token value at a given level. Anyone can provides liquidity to the swap contract in align with creation, distribution, and execution of mission campaigns such as 3rd party participants, ad networks, mission creators, and so on.
 
 ### DEX
 
