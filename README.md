@@ -18,7 +18,7 @@ In the traditional ad market, users haven’t received much value in the ecosyst
 
 **TICKL** uses **TCKL** coin, an ERC-20 utility token issued and distributed on the Ethereum blockchain network. **TCKL** coins function as a standard global currency that helps users get rewards for data and full access to the information on all the transactions and profit-sharing based on smart contracts.
 
-Users also can get direct help to handle daily tasks - big and small - by creating missions and publishing them in the C2C market. For example, small business owners who don’t have enough resources to run big marketing campaigns can set missions to promote their products or attract visitors to their social networks.
+Users also can get direct help to handle daily tasks - big and small - by creating missions and publishing them in the C2C market. For example, small business owners who don’t have enough resources to run big marketing campaigns can set missions to promote their products or attract visitors to their social media.
 
 Users can get higher rewards and more options to create missions depending on their different levels based on their contributions to the community. The longer or the more **TCKL** tokens users hold, the higher levels they achieve; the higher the levels, the higher rewards they get from a mission, and also the more types of missions they can create.
 
