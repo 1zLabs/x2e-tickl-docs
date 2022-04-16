@@ -6,7 +6,7 @@ description: Introducing TICKL
 
 **TICKL** is a Web3.0 ad platform on blockchain that gives values back to participants in the ecosystem - to advertisers, publishers, and especially users - by solving 3 major problems in the current advertisement market.
 
-![TICKL Ecosystem Diagram](.gitbook/assets/TICKL\_ecosystem\_v1.0.1.png)
+![TICKL Ecosystem Diagram](.gitbook/assets/TICKL\_ecosystem\_v1.1.1.png)
 
 The problems we are trying to solve are :
 
