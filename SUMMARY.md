@@ -29,7 +29,8 @@
 ## Tokenomics
 
 * [What is TCKL Token](tokenomics/what-is-tckl-token.md)
-* [Where to Use TCKL Token](tokenomics/where-to-use-tckl-token.md)
+* [Where to Use TCKL Token](tokenomics/where-to-use-tckl-token/README.md)
+  * [Convert TCKL into Fiat Currencies](tokenomics/where-to-use-tckl-token/convert-tckl-into-fiat-currencies.md)
 * [TICKL Revenue Stream](tokenomics/tickl-revenue-stream.md)
 * [How TICKL is Different](tokenomics/how-tickl-is-different.md)
 * [Token Exchanges](tokenomics/token-exchanges.md)
@@ -44,7 +45,3 @@
 ## Roadmap
 
 * [Roadmap](roadmap/roadmap.md)
-
-***
-
-* [Convert TCKL into Fiat Currencies](convert-tckl-into-fiat-currencies.md)
