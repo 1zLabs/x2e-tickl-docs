@@ -11,7 +11,7 @@ description: Introducing TICKL
 The problems we are trying to solve are :
 
 1. users are left out in value distribution
-2. advertisers and publishers need to pay for high distribution costs, and&#x20;
+2. advertisers and publishers need to pay for high distribution costs
 3. a lack of transparency in value (re)distribution.
 
 In the traditional ad market, users haven’t received much value in the ecosystem. While digital technology has enabled highly targeted and personalized ads based on users’ personal information and greatly benefited advertisers, users haven’t received a fair amount of rewards or protection. Although some reward ad platforms emerged as an alternative, the rewards they provided to users were incomplete, intransparent, and insufficient, which only led to consumers’ growing distrust toward the entire ad ecosystem.
