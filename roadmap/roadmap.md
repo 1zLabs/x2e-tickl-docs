@@ -3,7 +3,7 @@
 ### 2022Q1
 
 * TICKL Project Kick-off
-* Research & Platform Design
+* Research & Design TCKL Platform
 * Issue TCKL Tokens on Testnet
 * Closed Beta Test
 
